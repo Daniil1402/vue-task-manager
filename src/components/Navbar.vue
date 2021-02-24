@@ -1,5 +1,5 @@
 <template>
-  <nav class="teal darken-2">
+  <nav class="teal lighten-1">
       <div class="nav-wrapper">
         <router-link to="/" class="brand-logo">Task manager</router-link>
         <ul class="right hide-on-med-and-down">
