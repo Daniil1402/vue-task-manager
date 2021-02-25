@@ -24,7 +24,7 @@
         </div>
         <div class="input-field">
           <textarea id="description" class="materialize-textarea" required v-model="description"></textarea>
-          <label for="description">Textarea</label>
+          <label for="description">Description</label>
         </div>
         <button class="btn-large waves-effect waves-light" type="submit" name="action">CREATE TASK
           <!-- <i class="small material-icons">add_circle_outline</i> -->
